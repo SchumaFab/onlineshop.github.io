@@ -1,0 +1,46 @@
+{
+  "Produkte": [
+    {
+      "id": 1,
+      "Name": "tantan",
+      "Beschreibung": "Hallo ich bin die nummer 0",
+      "Quelle": "./bilder/1.jpeg"
+    },
+    {
+      "id": 2,
+      "Name": "PlantIt",
+      "Beschreibung": "Hallo ich bin die nummer 1",
+      "Quelle": "./bilder/2.jpeg"
+    },
+    {
+      "id": 3,
+      "Name": "YoOPorto",
+      "Beschreibung": "Hallo ich bin die nummer 7",
+      "Quelle": "./bilder/3.jpeg"
+    },
+    {
+      "id": 4,
+      "Name": "WebPortal",
+      "Beschreibung": "Hallo ich bin die nummer 1 ",
+      "Quelle": "./bilder/4.jpeg"
+    },
+    {
+      "id": 5,
+      "Name": "TiaPOrtal",
+      "Beschreibung": "Hallo ich bin die nummer 2",
+      "Quelle": "./bilder/5.jpeg"
+    },
+    {
+      "id": 6,
+      "Name": "Website",
+      "Beschreibung": "Hallo ich bin die nummer 4 ",
+      "Quelle": "./bilder/6.jpeg"
+    },
+    {
+      "Name": "Hans",
+      "Beschreibung": "Hallo ich bin die nummer 5",
+      "Quelle": "./bilder/6.jpeg",
+      "id": 7
+    }
+  ]
+}
